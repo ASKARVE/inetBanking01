@@ -9,4 +9,7 @@ public class HomePage {
 		this.driver = driver;
 		
 	}
+	public static void main(String[] args){
+	System.out.println("main method added");
+	}
 }
